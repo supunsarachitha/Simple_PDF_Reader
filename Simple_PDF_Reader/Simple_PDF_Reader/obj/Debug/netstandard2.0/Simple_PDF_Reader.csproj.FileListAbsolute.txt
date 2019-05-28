@@ -1,0 +1,11 @@
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\bin\Debug\netstandard2.0\Simple_PDF_Reader.deps.json
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\bin\Debug\netstandard2.0\Simple_PDF_Reader.dll
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\bin\Debug\netstandard2.0\Simple_PDF_Reader.pdb
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\netstandard2.0\Simple_PDF_Reader.csproj.CoreCompileInputs.cache
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\netstandard2.0\Simple_PDF_Reader.AssemblyInfoInputs.cache
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\netstandard2.0\Simple_PDF_Reader.AssemblyInfo.cs
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\netstandard2.0\Simple_PDF_Reader.dll
+C:\Users\sliyanaarachchi\source\repos\Simple_PDF_Reader\Simple_PDF_Reader\Simple_PDF_Reader\obj\Debug\netstandard2.0\Simple_PDF_Reader.pdb

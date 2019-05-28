@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Simple_PDF_Reader"
+             x:Class="Simple_PDF_Reader.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <WebView x:Name="Browser" Focused="Browser_Focused" Grid.Row="0" HeightRequest="1000" WidthRequest="1000"  Navigated="webviewNavigated"  Navigating="webviewNavigating"/>
+
+        <ContentView Grid.Row="0" x:Name="AGrid" BackgroundColor="White">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30*"></RowDefinition>
+                    <RowDefinition Height="30*"></RowDefinition>
+                    <RowDefinition Height="10*"></RowDefinition>
+                    <RowDefinition Height="30*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <ActivityIndicator Grid.Row="1" Color="#006699" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" IsRunning="True" x:Name="Loading">
+
+                </ActivityIndicator>
+                <Label Text="Loading..." TextColor="#006699" Grid.Row="2" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"></Label>
+            </Grid>
+
+        </ContentView>
+
+    </Grid>
+
+</ContentPage>
